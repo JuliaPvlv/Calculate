@@ -4,7 +4,7 @@ window.onload = (event) => {
     if (b && typeof (b) != 'undefined') {
 
         // Полный путь к скрипту
-        var dir = location.href.replace("calculate.html", "");
+        var dir = " https://github.com/JuliaPvlv/Calculate/blob/main";
 
         var block = $('.cfh');
         var line = block.find('.cfh_line');
