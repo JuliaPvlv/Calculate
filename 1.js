@@ -1,6 +1,7 @@
 window.onload = (event) => {
     var b = document.getElementById('cfh');
-    console.log('Готов!');
+    console.log(b); 
+    console.log('Готов!'); 
     if (b && typeof (b) != 'undefined') {
 
         // Полный путь к скрипту
