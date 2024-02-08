@@ -1,3 +1,4 @@
+document.style.backgroundColor = "#FF0000"
 window.onload = (event) => {
     var b = document.getElementById('cfh');
     console.log('Готов!');
